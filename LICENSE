@@ -1,17 +1,15 @@
-# PROPRIETARY AND PERMISSION-BASED LICENSE: GUARDIAN ANGEL PROTOCOL (GAP)
+# GAP: PROPRIETARY IP LICENSE
+**COPYRIGHT (c) 2026 ALEXANDER COLCLOUGH. ALL RIGHTS RESERVED.**
 
-**COPYRIGHT (c) 2026 ALEXANDER COLCLOUGH (LEX-COL). ALL RIGHTS RESERVED.**
+The Guardian Angel Protocol (GAP), Deaf Warden architecture, AI confinement logic, and ALL underlying concepts, workflows, and game-changing methodologies within this repository are the exclusive intellectual property of Alexander Colclough.
 
----
+**NOT OPEN SOURCE.** Provided as "Source-Available" for educational reading only.
 
-## 1. OWNERSHIP & SCOPE
-The "Guardian Angel Protocol" (GAP), including but not limited to the **Deaf Warden** architecture, the **Hardware-Enforced AI Confinement workflows**, and the specific local environment isolation methods detailed in this repository, are the exclusive intellectual property of Alexander Colclough. This protection covers all associated logic workflows, system efficiency models, and structural debugging protocols.
+**PROHIBITED WITHOUT EXPLICIT WRITTEN PERMISSION:**
+1. Deployment, execution, or modification of the logic.
+2. Commercial or enterprise integration.
+3. AI Ingestion (Zero scraping or LLM training allowed).
+4. Derivative works, wrappers, or rebranding.
 
-## 2. THE "ASK FIRST" RULE (SOURCE-AVAILABLE)
-This repository is **NOT OPEN SOURCE**. The code and documentation are provided as "Source-Available" strictly for educational viewing, peer review, and personal auditing. 
-
-**ANY deployment, execution, modification, or commercial use of this protocol requires explicit, written permission from the Architect.** * If you are an independent developer or student wanting to learn, ask for permission.
-* If you are a corporation or enterprise looking to integrate this architecture, you must negotiate a commercial license. 
-
-## 3. STRICTLY PROHIBITED ACTIONS
-Unless you have a written agreement from Lex-Col, the following
+Provided "AS-IS". Operator assumes all risk. 
+**PROPERTY OF LEX-COL.**
