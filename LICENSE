@@ -1,16 +1,17 @@
-Guardian Angel Protocol (GAP) V1.0 License
-==========================================
+# PROPRIETARY AND PERMISSION-BASED LICENSE: GUARDIAN ANGEL PROTOCOL (GAP)
 
-Copyright (c) 2026 Alexander Colclough (@Lex-Col). All rights reserved.
+**COPYRIGHT (c) 2026 ALEXANDER COLCLOUGH (LEX-COL). ALL RIGHTS RESERVED.**
 
-THE SOFTWARE, DOCUMENTATION, SIMULATION SCRIPTS, DEMO VIDEO, AND ALL ASSOCIATED MATERIALS (collectively, the "Work") are the intellectual property of Alexander Colclough.
+---
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this Work, to view, read, and study the Work for personal, educational, or non-commercial research purposes only, subject to the following conditions:
+## 1. OWNERSHIP & SCOPE
+The "Guardian Angel Protocol" (GAP), including but not limited to the **Deaf Warden** architecture, the **Hardware-Enforced AI Confinement workflows**, and the specific local environment isolation methods detailed in this repository, are the exclusive intellectual property of Alexander Colclough. This protection covers all associated logic workflows, system efficiency models, and structural debugging protocols.
 
-1. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Work.
+## 2. THE "ASK FIRST" RULE (SOURCE-AVAILABLE)
+This repository is **NOT OPEN SOURCE**. The code and documentation are provided as "Source-Available" strictly for educational viewing, peer review, and personal auditing. 
 
-2. Any modification, derivative work, distribution, public display, or commercial use (including but not limited to incorporating concepts such as the "Deaf Warden" Oracle, Universal Guillotine fail-safe, fixed-size C structs with HSM signatures, or the architectural philosophy of hardware-enforced AI confinement into other projects) is strictly prohibited without prior written permission from Alexander Colclough.
+**ANY deployment, execution, modification, or commercial use of this protocol requires explicit, written permission from the Architect.** * If you are an independent developer or student wanting to learn, ask for permission.
+* If you are a corporation or enterprise looking to integrate this architecture, you must negotiate a commercial license. 
 
-THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE WORK OR THE USE OR OTHER DEALINGS IN THE WORK.
-
-For licensing inquiries, collaboration proposals, or commercial rights, contact the architect directly.
+## 3. STRICTLY PROHIBITED ACTIONS
+Unless you have a written agreement from Lex-Col, the following
