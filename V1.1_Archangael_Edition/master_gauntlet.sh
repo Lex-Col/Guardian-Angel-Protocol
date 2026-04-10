@@ -55,4 +55,4 @@ fi
 
 echo -e "\n--- [GAUNTLET COMPLETE] ---"
 echo "[RESULT] The Guardian Angæl is VIGILANT. Logic is IMPENETRABLE."
-echo "[SYSTEM] All V1.1 Laws Enforced. F*** Skynet."
+echo "[SYSTEM] All V1.1 Laws Enforced. F Skynet."
