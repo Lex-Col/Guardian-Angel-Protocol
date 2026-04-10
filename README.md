@@ -4,7 +4,7 @@
 
 ​**Architect:** Alexander Colclough (@Lex-Col)
 
-**Version:** V1.1 (The Archangæl Expansion - Tape-Out / Production Blueprint)
+**Version:** V1.1 (The Archangæl Expansion)
 
 **Platform:** ARMv9-A Confidential Compute Architecture (CCA)
 
