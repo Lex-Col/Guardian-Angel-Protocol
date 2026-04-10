@@ -112,14 +112,7 @@ To maintain commercial efficiency and system reliability after a Guillotine wipe
 > [!NOTE]  
 > This repository currently serves as a **Functional Architectural Specification and C++ Logic Simulation**. It models the behavior of the ARMv9-A RME in a Linux/Android userspace.
 
-### V1.1 Gauntlet Objectives (Pending Verification)
-
-The expanded architecture is currently undergoing a full-scale C++ and AArch64 simulation to ensure system efficiency under extreme hardware degradation:
-
-1. **Gate TL Temporal Shackle:** Monotonic Nonce tracking validated against post-recovery desynchronization loops.
-2. **Archangæl Daemon Coherency:** Simulated Device-nGnRnE mapping to verify zero-lag telemetry hashing.
-3. **Mantle Power-Fault Resilience:** `libfiu` fault injection during the A/B BBRAM atomic commit phase, integrating PMIC fuel-gauge checks to prevent torn writes.
-4. **Constant-Time Verification:** Binary timing analysis (`dudect`) and pure AArch64 assembly stubs to ensure compiler optimization has not introduced clock-cycle variations or speculative branch leakage.
+---
 
 **"The Code is the Law. The Law is the Boundary. The Boundary is Absolute."**
 
