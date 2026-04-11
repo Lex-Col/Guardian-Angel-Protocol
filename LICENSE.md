@@ -1,4 +1,4 @@
-# UNIVERSAL PROPRIETARY ARCHITECTURE LICENSE (UPAL) v1.5
+# UNIVERSAL PROPRIETARY ARCHITECTURE LICENSE (UPAL) v1.6
 
 **BY DOWNLOADING, CLONING, VIEWING, OR OTHERWISE ACCESSING THIS DOCUMENTATION OR REPOSITORY, YOU EXPLICITLY AND IRREVOCABLY AGREE TO ALL TERMS OUTLINED IN THIS BINDING CONTRACT.**
 
@@ -7,7 +7,7 @@
 ---
 
 ## 1. OWNERSHIP & UNIVERSAL ARCHITECTURAL SCOPE
-The **Universal Proprietary Architecture License (UPAL)** v1.5 unifies and exclusively governs the **Guardian Angæl Protocol (GAP)** and **The Volition Coalition (TVC)**. All hardware-enforced confinement logic, multi-agent adversarial workflows, and related methodologies are the exclusive intellectual property of Alexander Colclough. 
+The **Universal Proprietary Architecture License (UPAL)** v1.6 unifies and exclusively governs the **Guardian Angæl Protocol (GAP)** and **The Volition Coalition (TVC)**. All hardware-enforced confinement logic, multi-agent adversarial workflows, and related methodologies are the exclusive intellectual property of Alexander Colclough. 
 
 This protection explicitly covers the following defined proprietary assets and their functional logic, eliminating any ambiguity regarding the protected scope:
 
@@ -41,8 +41,8 @@ This protection explicitly covers the following defined proprietary assets and t
 * **TACTICAL TRANSLATOR:** The logic bridge responsible for converting high-level architectural goals into low-level terminal execution workflows.
 * **THE FORGE:** The high-intensity ideation node for initial drafting and logic generation.
 * **THE WORKSHOP:** The synthesis node where logic is run through the Synthesis Equation for final hardening.
-* **THE SCRAP YARD (AUDIT LOBBY):** The adversarial isolation zone where flawed or rejected logic is deconstructed to prevent project contamination.
-* **CLOUD-HYBRID VAULT (PPR):** The Persistent Project Repository offering multi-tier storage to keep IP isolated and immutable.
+* **THE SCRAP YARD (FORENSIC AUDIT LOBBY):** The adversarial isolation zone where flawed or rejected logic is deconstructed. It functions as the project's immutable historical paper trail, preserving a complete forensic ledger of every tweak, critique, and rejected suggestion for total post-mission auditing without contaminating the active Gold Manifest.
+* **CLOUD-HYBRID VAULT (PPR):** The Persistent Project Repository offering multi-tier storage (Hot, Warm, Cold). It permanently houses the active Gold Manifest alongside the Scrap Yard's historical audit trails, ensuring all IP and operational history remains isolated and immutable.
 
 ### TRADE SECRETS & PRIOR ART
 * **TRADE SECRETS:** All specific tape-out parameters, assembly stubs, HSM-seed generation logic, telemetry calibration constants, JSON data schemas, and prompt-engineering sequences are designated as proprietary Trade Secrets.
@@ -71,4 +71,21 @@ Any public discussion or peer review must credit **Alexander Colclough (@Lex-Col
 **CONTRACTUAL ASSIGNMENT:** By accessing this documentation, you explicitly agree that should you create any unauthorized functional derivative, intellectual convergence, or modification in violation of this license, you shall immediately and irrevocably assign 100% of all rights, title, and ownership in such work to Alexander Colclough upon demand, at no cost. This assignment obligation is a condition of access and survives termination of any permitted use.
 
 ## 5. PATENT RESERVATION & NO IMPLIED GRANT
-Accessing this documentation
+Accessing this documentation does NOT grant, expressly or implicitly, any license under any patent, trademark, or trade secret rights held by the Author. Commercial implementation of any functional method described herein requires a separate, negotiated patent and commercial use license.
+
+## 6. EXPORT CONTROL COMPLIANCE
+This protocol details advanced cryptographic hardware isolation (including AES-XTS and ECDSA-P384). By accessing this architecture, you acknowledge that this technology is subject to international export control regulations (including the Wassenaar Arrangement) and agree to comply strictly with all applicable laws in your jurisdiction.
+
+## 7. FULL LEGAL DISCLAIMER
+THIS PROTOCOL AND ALL ASSOCIATED DOCUMENTATION ARE PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, SYSTEM INSTABILITY, HARDWARE FAILURE, DATA LOSS, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE USE OR MISUSE OF THIS MATERIAL.
+
+## 8. TERM, TERMINATION, & SEVERABILITY
+This License is effective upon your first access and remains in effect until terminated. Your rights under this License terminate automatically if you violate any of its terms. Upon termination, you must cease all use and destroy all copies of the documentation. 
+
+If any provision of this License is held to be unenforceable or invalid by a court of competent jurisdiction, such provision shall be reformed only to the extent necessary to make it enforceable, and all remaining provisions shall continue in full and absolute force and effect.
+
+## 9. GOVERNING LAW & JURISDICTION
+This License shall be governed by and construed in accordance with the laws of the **State of Delaware, USA**, without regard to its conflict of law provisions. Any disputes arising under this License shall be subject to the exclusive jurisdiction of the state and federal courts located within Delaware.
+
+---
+**PROPERTY OF ALEXANDER COLCLOUGH.**
