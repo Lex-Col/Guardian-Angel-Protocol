@@ -1,40 +1,40 @@
-# THE GUARDIAN ANGÆL PROTOCOL (GAP) — V1.1 PROPRIETARY EVALUATION LICENSE
+# GUARDIAN ANGÆL PROTOCOL (GAP) — V1.1 PROPRIETARY EVALUATION LICENSE
 **COPYRIGHT (c) 2026 ALEXANDER COLCLOUGH (@Lex-Col). ALL RIGHTS RESERVED.**
 
 ---
 
-## 1. OWNERSHIP & SCOPE OF PROTECTED ASSETS
-The **Guardian Angæl Protocol (GAP)** is the exclusive intellectual property of Alexander Colclough (@Lex-Col). This protection extends beyond the documentation to the specific functional logic and implementation files, including:
+## 1. OWNERSHIP OF INTELLECTUAL PROPERTY
+The Guardian Angæl Protocol (GAP), including its underlying architectural logic, functional implementation files, and all associated methodologies, is the exclusive intellectual property of Alexander Colclough. This protection explicitly extends to **any and all derivatives**, applications, conceptual evolutions, modified frameworks, or logic wrappers based on the GAP V1.1 architecture. This protection covers:
 
-* **Architectural Logic:** The "Deaf Warden" (RMM Oracle) state machine, the Instruction-Zero Microarchitectural Reset, and the HSM-RNG Seeded RSB Stuffing.
-* **Data Structures:** The 384-Byte AXI-Aligned Data Parcel and all associated bus-atomicity padding logic.
-* **Proprietary Scripts (src/):** `oracle_engine.cpp` (The Warden), `oracle_grind.cpp` (The Gauntlet), `whitelist_tw.S` (The Sword), and `recovery_tool.cpp` (Forensic Authorization).
-* **Hardware Interfacing:** The Hardware Data Diode (Silicon FIFO) logic, the Universal Guillotine sequence, and the Positive Heartbeat Decay (Dead-Man's Switch) parameters.
+* **Architectural Specifications:** The "Deaf Warden" (Realm Management Monitor Oracle) state machine, Instruction-Zero Microarchitectural Reset protocols, and HSM-RNG Seeded Return Stack Buffer (RSB) Stuffing logic.
+* **Data Structures:** The 384-Byte AXI-Aligned Data Parcel and all associated bus-atomicity and padding enforcement logic.
+* **Implementation Assets (src/):** The proprietary source code for `oracle_engine.cpp`, `oracle_grind.cpp`, `whitelist_tw.S`, and `recovery_tool.cpp`.
+* **Hardware Control Logic:** Unidirectional Telemetry (Hardware Data Diode/FIFO), the Universal Guillotine sequence, and Positive Heartbeat Decay (Inference-Bounded Dead-Man’s Switch) parameters.
 
-## 2. PERMITTED USE (INDIVIDUAL AUDIT ONLY)
-Permission is hereby granted, free of charge, to any **individual** obtaining a copy of the GAP V1.1 logic to utilize the material strictly for the following **non-commercial** purposes. This permission is personal, non-transferable, and does not grant any rights to corporations, organizations, or government entities:
+## 2. GRANT OF EVALUATION LICENSE
+Subject to the terms and conditions herein, the Architect hereby grants to individuals a personal, non-exclusive, non-transferable, and limited right to access the GAP V1.1 documentation and simulation logic for the following non-commercial purposes:
 
-* **Technical Review:** Studying the deterministic isolation layers and hardware-grade security constraints.
-* **Simulation Verification:** Running the `oracle_grind.cpp` hardware audit in a private userspace environment to verify the "1-Billion Cycle" zero-drift claim.
-* **Educational Research:** Understanding Confidential Compute Architectures (CCA) and hardware-level AI confinement for personal growth.
+* **Technical Audit:** The review and study of deterministic isolation layers and hardware-enforced security constraints.
+* **Logic Verification:** Execution of the hardware audit simulations in private, non-production environments to validate architectural claims.
+* **Non-Commercial Research:** Personal educational use regarding Confidential Compute Architecture (CCA) and hardware-level confinement.
 
-## 3. PROHIBITED USE: STRICT NON-OPEN SOURCE TERMS
-This project is **NOT OPEN SOURCE**. Any use outside of the narrow scope defined in Section 2 is an infringement of copyright and trade secret protocols. Prohibited actions include:
+## 3. PROHIBITED USES AND RESTRICTIONS
+This project is NOT open-source. Any use exceeding the scope defined in Section 2 is an infringement of copyright and trade secret protections. The following actions are strictly prohibited:
 
-* **Commercial Exploitation:** Integrating the "Deaf Warden" or "Triple-Gate" logic into any revenue-generating stack or enterprise tool.
-* **Unauthorized Redistribution:** Hosting or mirroring these scripts on any platform outside of the Architect's original repository.
-* **Reverse Engineering:** Extracting underlying methodology from assembly stubs or logic workflows to create "clean-room" implementations.
-* **Derivative Works:** Creating any modified versions, "wrappers," or conceptual evolutions based on this work for **public or private use**.
-* **AI Machine Training:** Using this code or documentation to train, fine-tune, or prompt Large Language Models (LLMs) or automated security systems.
+* **Derivative Works:** Creating, distributing, or utilizing **any and all derivative works**, "wrappers," or conceptual evolutions based on the GAP V1.1 architecture for either public or private use.
+* **Commercial Exploitation:** Integrating the "Deaf Warden" or "Triple-Gate" logic into any revenue-generating product, enterprise security stack, or internal corporate tool.
+* **Unauthorized Redistribution:** Hosting, mirroring, or distributing GAP V1.1 assets on any platform outside of the Architect's original repository.
+* **Reverse Engineering:** Extracting underlying methodology from assembly stubs or binary logic to create independent implementations.
+* **Machine Learning Training:** Utilizing GAP V1.1 documentation or code to train, fine-tune, or prompt-engineer Large Language Models (LLMs) or automated security systems.
 
-## 4. ATTRIBUTION & CITATION
-Any public discussion or peer review must include a prominent attribution to **Alexander Colclough (@Lex-Col)** as the original Architect and sole IP owner.
+## 4. ATTRIBUTION
+Any professional discussion, academic citation, or technical review regarding this protocol must provide prominent attribution to Alexander Colclough (@Lex-Col) as the original Architect and sole Intellectual Property owner.
 
-## 5. ENFORCEMENT & TERMINATION
-Unauthorized use or commercial implementation automatically terminates any right to utilize or reference the work. The Architect reserves the right to pursue all available legal remedies for intellectual property theft.
+## 5. TERMINATION OF RIGHTS
+Unauthorized use, commercialization, or the creation of **any and all unauthorized derivative works** immediately terminates all rights to utilize or reference the GAP V1.1 methodology. The Architect reserves the right to seek all available legal and equitable remedies for intellectual property theft.
 
-## 6. DISCLAIMER & LIMITATION OF LIABILITY
-GAP V1.1 IS PROVIDED "AS IS" WITHOUT WARRANTY. THE ARCHITECT (ALEXANDER COLCLOUGH) SHALL NOT BE LIABLE FOR ANY CLAIM OR DAMAGES, INCLUDING SYSTEM INSTABILITY OR DATA LOSS CAUSED BY THE EXECUTION OF THE "GUILLOTINE" OR ANY OTHER LOGIC STUBS.
+## 6. DISCLAIMER OF WARRANTIES
+GAP V1.1 is provided "as is" without warranty of any kind. The Architect does not warrant that the protocol will meet specific requirements or that operation will be uninterrupted.
 
----
-
+## 7. LIMITATION OF LIABILITY
+In no event shall the Architect be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from the use of the protocol or the execution of logic stubs including, but not limited to, the "Guillotine" seq
