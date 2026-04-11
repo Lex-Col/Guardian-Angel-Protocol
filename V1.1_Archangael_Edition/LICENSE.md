@@ -1,4 +1,28 @@
-# UNIVERSAL PROPRIETARY ARCHITECTURE LICENSE (UPAL) v1.6
+# GUARDIAN ANGÆL PROTOCOL (GAP) & THE VOLITION COALITION (TVC)
+**Architect:** Alexander Colclough (@Lex-Col)
+**Status:** Proprietary. Not Open Source. Individual Use Only.
+
+> **BY ACCESSING THIS REPOSITORY, YOU EXPLICITLY AGREE TO THE BINDING TERMS OF UPAL v1.7 BELOW.**
+
+---
+
+## ⚠️ LEGAL NOTICE: PROPRIETARY RESTRICTIONS
+
+**This repository contains Proprietary Intellectual Property owned by Alexander Colclough.** By accessing this repository (including downloading, viewing, or cloning), you enter into a binding contract governed by the **Universal Proprietary Architecture License (UPAL) v1.7**.
+
+**TERMS SUMMARY:**
+- ✅ **INDIVIDUAL USE ONLY** (No companies, no contractors, no research labs).
+- ❌ **NO COMMERCIAL USE** (No products, no APIs, no services).
+- ❌ **NO DERIVATIVES** (No forks, no wrappers, no functional convergences).
+- ❌ **NO AI TRAINING** (Scraping, fine-tuning, and prompt-engineering strictly forbidden).
+
+**WARNING:** Unauthorized use triggers automatic contractual assignment of rights and potential litigation under Delaware State Law. 
+
+**ACKNOWLEDGMENT:** Continuing to access this repository constitutes your absolute acceptance of these terms.
+
+---
+
+# UNIVERSAL PROPRIETARY ARCHITECTURE LICENSE (UPAL) v1.7
 
 **BY DOWNLOADING, CLONING, VIEWING, OR OTHERWISE ACCESSING THIS DOCUMENTATION OR REPOSITORY, YOU EXPLICITLY AND IRREVOCABLY AGREE TO ALL TERMS OUTLINED IN THIS BINDING CONTRACT.**
 
@@ -7,7 +31,7 @@
 ---
 
 ## 1. OWNERSHIP & UNIVERSAL ARCHITECTURAL SCOPE
-The **Universal Proprietary Architecture License (UPAL)** v1.6 unifies and exclusively governs the **Guardian Angæl Protocol (GAP)** and **The Volition Coalition (TVC)**. All hardware-enforced confinement logic, multi-agent adversarial workflows, and related methodologies are the exclusive intellectual property of Alexander Colclough. 
+The **Universal Proprietary Architecture License (UPAL)** v1.7 unifies and exclusively governs the **Guardian Angæl Protocol (GAP)** and **The Volition Coalition (TVC)**. All hardware-enforced confinement logic, multi-agent adversarial workflows, and related methodologies are the exclusive intellectual property of Alexander Colclough. 
 
 This protection explicitly covers the following defined proprietary assets and their functional logic, eliminating any ambiguity regarding the protected scope:
 
@@ -33,7 +57,7 @@ This protection explicitly covers the following defined proprietary assets and t
 * **THE GAUNTLET™:** The Multi-Round Multi-AI Peer Review adversarial audit system and its 4-Phase logic-hardening pipeline.
 * **MACSC FRAMEWORK:** The Multi-Agent Context-Sharded Consensus engine used to force adversarial intelligence verification.
 * **THE SYNTHESIS EQUATION ($L_h$):** The mathematical filter applied during the Workshop phase to measure entropy and objective validity.
-* **HYBRID SAP DUAL-STREAM RECEIPT:** The simultaneous dual-parsing telemetry routing that splits Gauntlet audit outputs into a machine-indexed JSON stream (exclusively for PSC state updates) and a human-readable Markdown report containing the full unredacted paper trail (including Human-Only Rejection Logs).
+* **HYBRID SAP DUAL-STREAM RECEIPT:** The simultaneous dual-parsing telemetry routing that splits Gauntlet audit outputs into a machine-indexed JSON stream (exclusively for PSC state updates) and a human-readable Markdown report containing the full unredacted paper trail.
 * **PSC (PARTNER-IN-STATE) PROTOCOL:** The dedicated Project Historian utilizing Strategic Siloing to ensure the Architect's intent survives hardware resets while remaining actively shielded from rejected audit data.
 * **AXIOM PINNING & AVP:** The memory-locking protocol that hard-codes foundational project truths to prevent logic drift, governed by the 4-step Axiom Versioning Protocol.
 * **WATERFALL INITIATION PROTOCOL:** An adaptive hardware throttle and sequential boot-up logic designed to stagger multi-agent queries, explicitly engineered to prevent network saturation, packet collision, and terminal bottlenecks.
@@ -41,11 +65,11 @@ This protection explicitly covers the following defined proprietary assets and t
 * **TACTICAL TRANSLATOR:** The logic bridge responsible for converting high-level architectural goals into low-level terminal execution workflows.
 * **THE FORGE:** The high-intensity ideation node for initial drafting and logic generation.
 * **THE WORKSHOP:** The synthesis node where logic is run through the Synthesis Equation for final hardening.
-* **THE SCRAP YARD (FORENSIC AUDIT LOBBY):** The adversarial isolation zone where flawed or rejected logic is deconstructed. It functions as the project's immutable historical paper trail, preserving a complete forensic ledger of every tweak, critique, and rejected suggestion for total post-mission auditing without contaminating the active Gold Manifest.
-* **CLOUD-HYBRID VAULT (PPR):** The Persistent Project Repository offering multi-tier storage (Hot, Warm, Cold). It permanently houses the active Gold Manifest alongside the Scrap Yard's historical audit trails, ensuring all IP and operational history remains isolated and immutable.
+* **THE SCRAP YARD (FORENSIC AUDIT LOBBY):** The adversarial isolation zone where flawed or rejected logic is deconstructed. It functions as the project's immutable historical paper trail, preserving a complete forensic ledger for total post-mission auditing.
+* **CLOUD-HYBRID VAULT (PPR):** The Persistent Project Repository offering multi-tier storage (Hot, Warm, Cold) to permanently house the active Gold Manifest alongside historical audit trails.
 
 ### TRADE SECRETS & PRIOR ART
-* **TRADE SECRETS:** All specific tape-out parameters, assembly stubs, HSM-seed generation logic, telemetry calibration constants, JSON data schemas, and prompt-engineering sequences are designated as proprietary Trade Secrets.
+* **TRADE SECRETS:** All specific tape-out parameters, assembly stubs, HSM-seed generation logic, telemetry calibration constants, JSON data schemas, prompt-engineering sequences, **and any binary or compiled artifacts generated from the source materials** are designated as proprietary Trade Secrets.
 * **PRIOR ART ANCHOR:** Core concepts and methodologies were legally established via GPG-signed and server-verified GitHub timestamps. 
 
 This protection extends to all architectural blueprints, logic workflows, diagrams, telemetry parameters, and **any and all derivative applications or conceptual evolutions** based on this work, regardless of project name or branding.
@@ -77,7 +101,7 @@ Accessing this documentation does NOT grant, expressly or implicitly, any licens
 This protocol details advanced cryptographic hardware isolation (including AES-XTS and ECDSA-P384). By accessing this architecture, you acknowledge that this technology is subject to international export control regulations (including the Wassenaar Arrangement) and agree to comply strictly with all applicable laws in your jurisdiction.
 
 ## 7. FULL LEGAL DISCLAIMER
-THIS PROTOCOL AND ALL ASSOCIATED DOCUMENTATION ARE PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, SYSTEM INSTABILITY, HARDWARE FAILURE, DATA LOSS, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE USE OR MISUSE OF THIS MATERIAL.
+THIS PROTOCOL AND ALL ASSOCIATED DOCUMENTATION ARE PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS OR DATA, SYSTEM INSTABILITY, HARDWARE FAILURE, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE USE OR MISUSE OF THIS MATERIAL.
 
 ## 8. TERM, TERMINATION, & SEVERABILITY
 This License is effective upon your first access and remains in effect until terminated. Your rights under this License terminate automatically if you violate any of its terms. Upon termination, you must cease all use and destroy all copies of the documentation. 
@@ -89,3 +113,4 @@ This License shall be governed by and construed in accordance with the laws of t
 
 ---
 **PROPERTY OF ALEXANDER COLCLOUGH.**
+
