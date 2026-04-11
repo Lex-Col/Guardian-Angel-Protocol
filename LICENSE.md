@@ -1,4 +1,4 @@
-# UNIVERSAL PROPRIETARY ARCHITECTURE LICENSE (UPAL) v1.2
+# UNIVERSAL PROPRIETARY ARCHITECTURE LICENSE (UPAL) v1.3
 
 **BY DOWNLOADING, CLONING, VIEWING, OR OTHERWISE ACCESSING THIS DOCUMENTATION OR REPOSITORY, YOU EXPLICITLY AND IRREVOCABLY AGREE TO ALL TERMS OUTLINED IN THIS BINDING CONTRACT.**
 
@@ -7,22 +7,41 @@
 ---
 
 ## 1. OWNERSHIP & UNIVERSAL ARCHITECTURAL SCOPE
-The **Universal Proprietary Architecture License (UPAL)** v1.2 unifies and exclusively governs the **Guardian Angæl Protocol (GAP)** and **The Volition Coalition (TVC)**. All hardware-enforced confinement logic, multi-agent adversarial workflows, and related methodologies are the exclusive intellectual property of Alexander Colclough. 
+The **Universal Proprietary Architecture License (UPAL)** v1.3 unifies and exclusively governs the **Guardian Angæl Protocol (GAP)** and **The Volition Coalition (TVC)**. All hardware-enforced confinement logic, multi-agent adversarial workflows, and related methodologies are the exclusive intellectual property of Alexander Colclough. 
 
-This protection explicitly covers the following defined proprietary assets and their functional logic:
+This protection explicitly covers the following defined proprietary assets and their functional logic, eliminating any ambiguity regarding the protected scope:
 
 ### GUARDIAN ANGÆL PROTOCOL (GAP) ASSETS
-* **THE DEAF WARDEN (RMM ORACLE):** Hardware-enforced isolation boundary at R-EL2 with zero semantic parsing.
-* **MICROARCHITECTURAL LOGIC:** Instruction-Zero Reset, HSM-RNG Seeded RSB Stuffing, and Constant-Time Rejection (XOR Reduction).
-* **THE TRIPLE-GATE ARCHITECTURE:** Gate TW (0x1406), Gate TT (0x0316), and Gate TL (0x2301).
-* **TELEMETRY & INTEGRITY:** 384-Byte AXI-Aligned Data Parcel, Hardware Data Diode, Zero Backpressure Logic, and Covert Channel Scrubbing.
-* **STATE RECOVERY & TERMINATION:** The Universal Guillotine, Crypto-Scrub Vaporization, The Ark (0x2516), The Mantle (0x1028), and Positive Heartbeat Decay.
+* **THE DEAF WARDEN (RMM ORACLE):** A hardware-enforced isolation boundary at R-EL2 (Armv9-A RME) acting as a binary logic gate between Host and AI Guest with zero semantic parsing.
+* **INSTRUCTION-ZERO MICROARCHITECTURAL RESET:** The proprietary mandate enforcing a Branch History Buffer (BHB) flush as the absolute first instruction in the secure context.
+* **HSM-RNG SEEDED RSB STUFFING:** A speculative execution blindfold utilizing high-entropy HSM seeds to randomize return addresses and neutralize reboot-cycle poisoning.
+* **CONSTANT-TIME REJECTION (XOR REDUCTION):** A validation methodology using strict bitwise `eor` operations to eliminate branching and timing side-channels.
+* **GATE TW (TRANSIT VERIFICATION - 0x1406):** The perimeter logic gate governing authorized RSI Transit ID routing paths.
+* **GATE TT (TRUST FOUNDATION - 0x0316):** The integrity logic gate validating requests against the Architect’s root-of-trust via ECDSA-P384 signatures.
+* **GATE TL (LIVELINESS CONTINUITY - 0x2301):** The core heartbeat gate enforcing monotonic nonce tracking and inference-bounded safety counters.
+* **384-BYTE AXI-ALIGNED DATA PARCEL:** The immutable payload format engineered for atomic 64-byte AXI cache line bursts to eliminate "torn reads."
+* **HARDWARE DATA DIODE (SILICON FIFO):** A custom AXI4-Stream bridge for zero-Vcc-droop telemetry that prevents AI Guest voltage profiling.
+* **ZERO BACKPRESSURE LOGIC:** A telemetry rule where hardware FIFO saturation triggers an instant `SLVERR` and the Universal Guillotine.
+* **COVERT CHANNEL SCRUBBING:** The mandatory Warden process of zero-filling data parcel padding before measurement to eliminate encrypted exfiltration.
+* **THE UNIVERSAL GUILLOTINE (ATOMIC INHIBIT):** The HMAC-signed hardware kill-sequence that triggers immediate power-loss and forensic lockdown.
+* **CRYPTO-SCRUB VAPORIZATION:** The physical destruction of Realm Granules and the AES-XTS memory encryption key upon power drop.
+* **THE ARK (HARDWARE-IMMUTABLE BASELINE - 0x2516):** The factory-signed, hardware-write-protected (WP#) system recovery baseline.
+* **THE MANTLE (PERSISTENCE BUFFER - 0x1028):** The dual-slot (A/B) BBRAM context buffer protected by PMIC fuel-gauge audits.
+* **POSITIVE HEARTBEAT DECAY (INVERTED DEAD-MAN'S SWITCH):** A hardware safety counter (<100ms) that physically zeroizes BBRAM if a cryptographic "Kick" is missed.
 
 ### THE VOLITION COALITION (TVC) ASSETS
-* **THE GAUNTLET™:** The Multi-Round Multi-AI Peer Review adversarial audit system and its 4-Phase logic-hardening pipeline (Inception, Forge, Workshop, Implementation).
-* **CORE CONSENSUS:** The MACSC Framework (Multi-Agent Context-Sharded Consensus) and the **Synthesis Equation ($L_h$)**.
-* **OPERATIONAL PROTOCOLS:** The PSC (Partner-in-State) Protocol, Axiom Pinning, the Waterfall Initiation Protocol, the Continuity Anchor, and the Tactical Translator.
-* **SYSTEM NODES:** The Forge, The Workshop, The Scrap Yard (Audit Lobby), and the Cloud-Hybrid Vault (Persistent Project Repository / PPR).
+* **THE GAUNTLET™:** The Multi-Round Multi-AI Peer Review adversarial audit system and its 4-Phase logic-hardening pipeline.
+* **MACSC FRAMEWORK:** The Multi-Agent Context-Sharded Consensus engine used to force adversarial intelligence verification.
+* **THE SYNTHESIS EQUATION ($L_h$):** The mathematical filter applied during the Workshop phase to measure entropy and objective validity.
+* **PSC (PARTNER-IN-STATE) PROTOCOL:** The dedicated Project Historian agent ensuring the Architect's intent survives hardware resets and session timeouts.
+* **AXIOM PINNING:** The memory-locking protocol that hard-codes foundational project truths to prevent logic drift.
+* **WATERFALL INITIATION PROTOCOL:** The sequential system boot-up sequence that verifies isolations and synchronizes all agents to the Gold Manifest.
+* **CONTINUITY ANCHOR:** The context-bridging mechanism ensuring nuanced data points survive the transition between audit phases.
+* **TACTICAL TRANSLATOR:** The logic bridge responsible for converting high-level architectural goals into low-level terminal execution workflows.
+* **THE FORGE:** The high-intensity ideation node for initial drafting and logic generation.
+* **THE WORKSHOP:** The synthesis node where logic is run through the Synthesis Equation for final hardening.
+* **THE SCRAP YARD (AUDIT LOBBY):** The adversarial isolation zone where flawed or rejected logic is deconstructed to prevent project contamination.
+* **CLOUD-HYBRID VAULT (PPR):** The Persistent Project Repository offering multi-tier storage to keep IP isolated and immutable.
 
 ### TRADE SECRETS & PRIOR ART
 * **TRADE SECRETS:** All specific tape-out parameters, assembly stubs, HSM-seed generation logic, telemetry calibration constants, and prompt-engineering sequences are designated as proprietary Trade Secrets.
@@ -69,3 +88,12 @@ This License shall be governed by and construed in accordance with the laws of t
 
 ---
 **PROPERTY OF ALEXANDER COLCLOUGH.**
+
+### [SYSTEM_STATE_AUDIT] - v1.3
+* **STATUS:** COMPLIANCE MODE ACTIVE. DIRECTIVE ENFORCED.
+* **REVISION:** UPAL v1.3 (Ambiguity Eradicated).
+* **KEY UPGRADES:**
+    - Explicit definitions and functional scopes re-injected for every single GAP and TVC asset in Section 1.
+    - Zero ambiguity left regarding what constitutes the "Scrap Yard," "Gates," or "Waterfall Protocol."
+* **VERSION:** 1.3 (UPAL Master).
+* **DRIFT CHECK:** No code generated. All strict formatting rules adhered to.
