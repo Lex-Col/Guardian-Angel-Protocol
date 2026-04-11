@@ -1,36 +1,40 @@
-# THE GUARDIAN ANGÆL PROTOCOL (GAP) — V1.1 PROPRIETARY EVALUATION LICENSE
-
+# GUARDIAN ANGÆL PROTOCOL (GAP) — V1.1 PROPRIETARY EVALUATION LICENSE
 **COPYRIGHT (c) 2026 ALEXANDER COLCLOUGH (@Lex-Col). ALL RIGHTS RESERVED.**
 
 ---
 
-## 1. OWNERSHIP & SCOPE
-The **Guardian Angæl Protocol (GAP)**, including but not limited to the **Deaf Warden (RMM Oracle)** architecture, the **Instruction-Zero Microarchitectural Reset**, the **HSM-RNG Seeded RSB Stuffing**, the **384-Byte AXI-Aligned Data Parcel**, the **Hardware Data Diode (Silicon FIFO)**, and the **Universal Guillotine** logic, is the exclusive intellectual property of Alexander Colclough. This protection extends to all architectural blueprints, logic workflows, tape-out parameters, assembly stubs, and **any and all derivative applications or conceptual evolutions** based on this work.
+## 1. OWNERSHIP OF INTELLECTUAL PROPERTY
+The Guardian Angæl Protocol (GAP), including its underlying architectural logic, functional implementation files, and all associated methodologies, is the exclusive intellectual property of Alexander Colclough. This protection explicitly extends to **any and all derivatives**, applications, conceptual evolutions, modified frameworks, or logic wrappers based on the GAP V1.1 architecture. This protection covers:
 
-## 2. PERMITTED USE (INDIVIDUAL ONLY)
-Permission is hereby granted, free of charge, to any **individual** obtaining a copy of the GAP V1.1 documentation and simulation logic to utilize the material for the following **non-commercial** purposes. This permission is **strictly personal and non-transferable**, and does not extend to any corporation, organization, government entity, or commercial lab:
+* **Architectural Specifications:** The "Deaf Warden" (Realm Management Monitor Oracle) state machine, Instruction-Zero Microarchitectural Reset protocols, and HSM-RNG Seeded Return Stack Buffer (RSB) Stuffing logic.
+* **Data Structures:** The 384-Byte AXI-Aligned Data Parcel and all associated bus-atomicity and padding enforcement logic.
+* **Implementation Assets (src/):** The proprietary source code for `oracle_engine.cpp`, `oracle_grind.cpp`, `whitelist_tw.S`, and `recovery_tool.cpp`.
+* **Hardware Control Logic:** Unidirectional Telemetry (Hardware Data Diode/FIFO), the Universal Guillotine sequence, and Positive Heartbeat Decay (Inference-Bounded Dead-Man’s Switch) parameters.
 
-* **Intellectual Audit:** Reviewing and studying the technical logic, hardware-enforced isolation layers, and silicon-grade security constraints.
-* **Simulation Validation:** Executing the included simulation environments (e.g., QEMU CCA or C++ testbenches) in a private, non-commercial capacity to verify the protocol.
-* **Personal Research:** Utilizing the framework for personal growth and individual understanding of Confidential Compute Architectures and hardware-level AI confinement.
+## 2. GRANT OF EVALUATION LICENSE
+Subject to the terms and conditions herein, the Architect hereby grants to individuals a personal, non-exclusive, non-transferable, and limited right to access the GAP V1.1 documentation and simulation logic for the following non-commercial purposes:
 
-## 3. PROHIBITED USE: NOT OPEN SOURCE
-Any use of GAP V1.1 outside of the permitted scopes defined in Section 2 is strictly prohibited without a separate, written commercial agreement from the Architect. Prohibited actions include:
+* **Technical Audit:** The review and study of deterministic isolation layers and hardware-enforced security constraints.
+* **Logic Verification:** Execution of the hardware audit simulations in private, non-production environments to validate architectural claims.
+* **Non-Commercial Research:** Personal educational use regarding Confidential Compute Architecture (CCA) and hardware-level confinement.
 
-* **Commercial/Enterprise Deployment:** Integrating GAP V1.1 logic, the "Deaf Warden" architecture, or the AXI-aligned parcel into any revenue-generating software, enterprise security stack, internal corporate tool, or hardware product.
-* **Redistribution:** Hosting, mirroring, or distributing the GAP V1.1 documentation or code on any platform other than the Architect's original repository.
-* **Reverse Engineering:** Decompiling, disassembling, or reverse engineering any binaries, assembly stubs, or hardware logic workflows to extract the underlying methodology.
-* **Derivative Works:** Creating, distributing, or utilizing **any and all derivative works**, frameworks, "wrappers," or modified logic branches based on the GAP V1.1 architecture, **whether for public or private use**.
-* **Automated Exploitation & Training:** Utilizing GAP V1.1 documentation to train, fine-tune, or prompt-engineer Large Language Models (LLMs), AI systems, synthetic data generators, or automated security tools.
+## 3. PROHIBITED USES AND RESTRICTIONS
+This project is NOT open-source. Any use exceeding the scope defined in Section 2 is an infringement of copyright and trade secret protections. The following actions are strictly prohibited:
+
+* **Derivative Works:** Creating, distributing, or utilizing **any and all derivative works**, "wrappers," or conceptual evolutions based on the GAP V1.1 architecture for either public or private use.
+* **Commercial Exploitation:** Integrating the "Deaf Warden" or "Triple-Gate" logic into any revenue-generating product, enterprise security stack, or internal corporate tool.
+* **Unauthorized Redistribution:** Hosting, mirroring, or distributing GAP V1.1 assets on any platform outside of the Architect's original repository.
+* **Reverse Engineering:** Extracting underlying methodology from assembly stubs or binary logic to create independent implementations.
+* **Machine Learning Training:** Utilizing GAP V1.1 documentation or code to train, fine-tune, or prompt-engineer Large Language Models (LLMs) or automated security systems.
 
 ## 4. ATTRIBUTION
-Any public discussion, academic citation, or peer review of this protocol must include a clear and prominent attribution to **Alexander Colclough (@Lex-Col)** as the original Architect.
+Any professional discussion, academic citation, or technical review regarding this protocol must provide prominent attribution to Alexander Colclough (@Lex-Col) as the original Architect and sole Intellectual Property owner.
 
-## 5. ENFORCEMENT & TERMINATION
-Unauthorized use, commercialization, or redistribution of the GAP V1.1 methodology automatically terminates any implied right to reference or utilize the work. The Architect reserves the right to pursue all available legal remedies for intellectual property theft, including but not limited to unauthorized commercial implementation.
+## 5. TERMINATION OF RIGHTS
+Unauthorized use, commercialization, or the creation of **any and all unauthorized derivative works** immediately terminates all rights to utilize or reference the GAP V1.1 methodology. The Architect reserves the right to seek all available legal and equitable remedies for intellectual property theft.
 
-## 6. DISCLAIMER
-THIS PROTOCOL IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. 
+## 6. DISCLAIMER OF WARRANTIES
+GAP V1.1 is provided "as is" without warranty of any kind. The Architect does not warrant that the protocol will meet specific requirements or that operation will be uninterrupted.
 
 ## 7. LIMITATION OF LIABILITY
-IN NO EVENT SHALL THE ARCHITECT (ALEXANDER COLCLOUGH) BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE PROTOCOL OR THE USE OR OTHER DEALINGS IN THE PROTOCOL. THIS INCLUDES, WITHOUT LIMITATION, ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES RESULTING FROM HARDWARE FAILURE, DATA LOSS, OR SYSTEM INSTABILITY CAUSED BY THE EXECUTION OF THE "GUILLOTINE" OR ANY OTHER LOGIC STUBS.
+In no event shall the Architect be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from the use of the protocol or the execution of logic stubs including, but not limited to, the "Guillotine" sequence.
