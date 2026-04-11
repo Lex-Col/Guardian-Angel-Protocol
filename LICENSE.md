@@ -1,5 +1,7 @@
 # PROPRIETARY LICENSE AND TERMS OF USE: THE GUARDIAN ANGÆL PROTOCOL (GAP) v1.1
 
+**BY DOWNLOADING, CLONING, VIEWING, OR OTHERWISE ACCESSING THIS DOCUMENTATION OR REPOSITORY, YOU EXPLICITLY AND IRREVOCABLY AGREE TO ALL TERMS OUTLINED IN THIS BINDING CONTRACT.**
+
 **COPYRIGHT (c) 2026 ALEXANDER COLCLOUGH (@Lex-Col). ALL RIGHTS RESERVED.**
 
 ---
@@ -35,37 +37,36 @@ The **"Guardian Angæl Protocol" (GAP)** v1.1, including its overarching hardwar
 * **THE ORACLE TEST (SCENARIO 6):** The proprietary diagnostic crucible designed for boundary-escape stress testing.
 * **TRADE SECRETS:** All specific tape-out parameters, exact assembly stubs, and HSM-seed generation logic included herein are designated as proprietary Trade Secrets.
 
-This protection extends to all architectural blueprints, logic workflows, tape-out parameters, assembly stubs, C++ or AArch64 simulations, and **any and all derivative applications or conceptual evolutions** based on this work.
-
 ## 2. PERMITTED USE (STRICTLY INDIVIDUAL)
 Permission is granted to **individuals** for strictly **non-commercial, personal** use. For the purposes of this License, an "individual" is defined strictly as a natural person acting solely in their personal capacity, and explicitly EXCLUDES any person acting as an employee, contractor, researcher, or agent for any corporation, government entity, military organization, or academic institution.
-* **Intellectual Audit:** Reviewing and studying the technical logic and hardware-enforced isolation layers.
-* **Simulation Validation:** Executing GAP simulations (e.g., QEMU CCA or C++ testbenches) in a private capacity.
-* **Personal Research:** Utilizing the framework for individual understanding of hardware-level AI confinement.
+* **Intellectual Audit:** Reviewing the technical logic and hardware-enforced isolation layers.
+* **Simulation Validation:** Executing GAP simulations in a private capacity.
+* **Personal Research:** Individual understanding of hardware-level AI confinement.
 
 ## 3. ABSOLUTE PROHIBITIONS: NOT OPEN SOURCE
 Any use outside Section 2 is strictly prohibited.
-* **ZERO-TOLERANCE ON DERIVATIVES:** You are strictly forbidden from creating, distributing, or utilizing **any and all derivative works**, frameworks, "wrappers," or modified logic branches based on the GAP v1.1 architecture, whether for public or private use.
-* **Commercial/Enterprise Deployment:** Integrating GAP v1.1 logic or the "Deaf Warden" architecture into any revenue-generating software, enterprise security stack, or hardware product.
-* **Automated Exploitation (AI Training):** Accessing, scraping, or utilizing this methodology or documentation to train, fine-tune, or prompt-engineer Large Language Models (LLMs) or AI systems is **STRICTLY PROHIBITED**.
-* **Plagiarism/Redistribution:** Redistribution on unauthorized platforms or removal of the "Alexander Colclough" attribution is a violation of this license.
+* **ZERO-TOLERANCE ON DERIVATIVES:** You are strictly forbidden from creating, distributing, or utilizing **any and all derivative works**, frameworks, or modified logic branches based on the GAP v1.1 architecture, whether for public or private use.
+* **Commercial/Enterprise Deployment:** Integrating GAP v1.1 logic into any revenue-generating software, enterprise security stack, or hardware product.
+* **Automated Exploitation (AI Training):** Accessing, scraping, or utilizing this methodology to train, fine-tune, or prompt-engineer Large Language Models (LLMs) or AI systems is **STRICTLY PROHIBITED**.
 
-## 4. ATTRIBUTION & CONTRACTUAL ASSIGNMENT OF DERIVATIVES
+## 4. ABSOLUTE UNIVERSAL OWNERSHIP & CONTRACTUAL ASSIGNMENT
 Any public discussion or peer review must credit **Alexander Colclough (@Lex-Col)** as the original Architect. 
 
-**CONTRACTUAL ASSIGNMENT:** By accessing, downloading, or otherwise obtaining this documentation, you explicitly agree that should you create any unauthorized derivative work or modification in violation of this license, you shall immediately and irrevocably assign all rights, title, and ownership in such work to Alexander Colclough upon demand, at no cost.
+**PERPETUAL UNIVERSAL OWNERSHIP:** The Author retains absolute, irrevocable, and exclusive ownership over the GAP architecture, its methodology, its functional likeness, and any intellectual convergence or derivative works thereof, **in perpetuity, throughout the universe, across all mediums and formats now known or hereafter devised.**
+
+**CONTRACTUAL ASSIGNMENT:** By accessing this documentation, you explicitly agree that should you create any unauthorized functional derivative, intellectual convergence, or modification in violation of this license, you shall immediately and irrevocably assign 100% of all rights, title, and ownership in such work to Alexander Colclough upon demand, at no cost.
 
 ## 5. PATENT RESERVATION & NO IMPLIED GRANT
-Accessing, downloading, or viewing this documentation does NOT grant, expressly or implicitly, any license under any patent, trademark, or trade secret rights held by the Author. The implementation of the functional methods, systems, and architectures described herein in any commercial capacity requires a separate, negotiated patent and commercial use license from the Author.
+Accessing this documentation does NOT grant, expressly or implicitly, any license under any patent, trademark, or trade secret rights held by the Author. Commercial implementation requires a separate, negotiated patent license.
 
 ## 6. FULL LEGAL DISCLAIMER
-THIS PROTOCOL AND ALL ASSOCIATED DOCUMENTATION ARE PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, SYSTEM INSTABILITY, HARDWARE FAILURE, DATA LOSS, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE USE OR MISUSE OF THIS PROTOCOL.
+THIS PROTOCOL IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, SYSTEM INSTABILITY, HARDWARE FAILURE, DATA LOSS, OR OTHER LIABILITY ARISING FROM THE USE OR MISUSE OF THIS PROTOCOL.
 
-## 7. GOVERNING LAW & JURISDICTION
-This License shall be governed by and construed in accordance with the applicable laws of the Architect's legal domicile, without regard to its conflict of law provisions. Any disputes arising under this License shall be subject to the exclusive jurisdiction of the state and federal courts located within that jurisdiction.
+## 7. EXPORT CONTROL COMPLIANCE
+This protocol details advanced cryptographic hardware isolation (AES-XTS, ECDSA-P384). By downloading or accessing this architecture, the user acknowledges that this technology is subject to international export control regulations and agrees to comply strictly with all applicable laws in their jurisdiction.
 
-## 8. SEVERABILITY
-If any provision of this License is held to be unenforceable or invalid by a court of competent jurisdiction, such provision shall be reformed only to the extent necessary to make it enforceable, and all remaining provisions shall continue in full and absolute force and effect.
+## 8. GOVERNING LAW & SEVERABILITY
+This License shall be governed by and construed in accordance with the laws of the **State of Delaware, USA**, without regard to its conflict of law provisions. Any disputes shall be subject to the exclusive jurisdiction of the state and federal courts located within Delaware. If any provision of this License is held to be unenforceable, it shall be reformed only to the extent necessary, and all remaining provisions shall continue in absolute force and effect.
 
 ---
 **PROPERTY OF ALEXANDER COLCLOUGH.**
