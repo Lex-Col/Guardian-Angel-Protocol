@@ -1,4 +1,4 @@
-# GUARDIAN ANGÆL PROTOCOL (GAP) & THE VOLITION COALITION (TVC)
+# GUARDIAN ANGÆL PROTOCOL (GAP), THE VOLITION COALITION (TVC) & THE SOVEREIGN IP VAULT (SIPV)
 **Architect:** Alexander Colclough (@Lex-Col)
 **Status:** Proprietary Intellectual Property. Not Open Source. Individual Use Only.
 
@@ -29,52 +29,50 @@
 ---
 
 ## 1. OWNERSHIP & UNIVERSAL ARCHITECTURAL SCOPE
-The **UPAL v1.10** unifies and exclusively governs the **Guardian Angæl Protocol (GAP)** and **The Volition Coalition (TVC)**. This work is protected as original expression under **17 U.S.C. § 102**. 
+The **UPAL v1.10** unifies and exclusively governs the **Guardian Angæl Protocol (GAP)**, **The Volition Coalition (TVC)**, and **The Sovereign IP Vault (SIPV)**. This work is protected as original expression under **17 U.S.C. § 102**. 
 
 Any unauthorized acquisition, disclosure, or implementation of the functional methodologies defined herein—including **"Mental Scraping"** (defined as the extraction or reconstruction of protected logic from memory, observation, or documentation for unauthorized implementation or disclosure)—constitutes a material breach of this contract and **Willful Copyright Infringement** under **17 U.S.C. § 501**.
 
 ### GUARDIAN ANGÆL PROTOCOL (GAP) ASSETS
-* **THE DEAF WARDEN (RMM ORACLE):** A hardware-enforced isolation boundary at R-EL2 (Armv9-A RME) acting as a binary logic gate with zero semantic parsing. Reverse-engineering of this gate or other hardware-enforced components constitutes a material breach of this contract.
-* **INSTRUCTION-ZERO MICROARCHITECTURAL RESET:** The mandate enforcing a Branch History Buffer (BHB) flush as the absolute first instruction in the secure context to prevent cross-context speculative attacks.
-* **HSM-RNG SEEDED RSB STUFFING:** A speculative execution blindfold utilizing high-entropy HSM seeds to randomize return addresses and neutralize reboot-cycle poisoning.
-* **CONSTANT-TIME REJECTION (XOR REDUCTION):** A validation methodology using strict bitwise `eor` operations to eliminate branching and timing side-channels during logic gates.
-* **GATE TW (TRANSIT VERIFICATION - 0x1406):** The "Perimeter Gate" responsible for routing path validation; it governs and authorizes specific RSI Transit ID paths allowed to traverse the hardware boundary, blocking all unmapped telemetry.
-* **GATE TT (TRUST FOUNDATION - 0x0316):** The "Integrity Gate" responsible for identity validation; it mandates cryptographic verification against the Architect’s root-of-trust using ECDSA-P384 signatures.
-* **GATE TL (LIVELINESS CONTINUITY - 0x2301):** The "Heartbeat Gate" responsible for temporal security; it enforces monotonic nonce tracking and inference-bounded safety counters to prevent replay attacks and ensure real-time operation.
-* **384-BYTE AXI-ALIGNED DATA PARCEL:** Immutable payload format engineered for atomic 64-byte AXI cache line bursts to eliminate "torn reads" during inter-process communication.
-* **HARDWARE DATA DIODE (SILICON FIFO):** Custom AXI4-Stream bridge for zero-Vcc-droop telemetry that prevents AI Guest voltage profiling.
-* **ZERO BACKPRESSURE LOGIC:** Telemetry rule where hardware FIFO saturation triggers an instant `SLVERR` and the Universal Guillotine.
-* **COVERT CHANNEL SCRUBBING:** Warden process of zero-filling data parcel padding before measurement to eliminate encrypted exfiltration.
-* **THE UNIVERSAL GUILLOTINE (ATOMIC INHIBIT):** HMAC-signed hardware kill-sequence triggering immediate power-loss and forensic lockdown.
-* **CRYPTO-SCRUB VAPORIZATION:** Physical destruction of Realm Granules and the AES-XTS memory encryption key upon power drop.
-* **THE ARK (0x2516 WP#):** Factory-signed, hardware-write-protected (WP#) system recovery baseline.
-* **THE MANTLE (PERSISTENCE BUFFER - 0x1028):** Dual-slot (A/B) BBRAM context buffer protected by PMIC fuel-gauge audits to ensure state persistence across resets.
-* **POSITIVE HEARTBEAT DECAY:** Hardware safety counter (<100ms) that physically zeroizes BBRAM if a cryptographic "Kick" is missed.
-* **BILLION-CYCLE ORACLE AUDIT:** High-intensity automated stress-testing used to validate hardware gate integrity over extreme operational cycles.
+* **THE DEAF WARDEN (RMM ORACLE):** A hardware-enforced isolation boundary acting as a binary logic gate with zero semantic parsing. Reverse-engineering of this gate or other hardware-enforced components constitutes a material breach of this contract.
+* **INSTRUCTION-ZERO MICROARCHITECTURAL RESET:** A secure-context mandate enforcing a physical state flush as the absolute first instruction to structurally neutralize cross-context speculative attacks.
+* **HSM-RNG SEEDED RSB STUFFING:** A speculative execution blindfold utilizing high-entropy hardware seeds to randomize execution paths and prevent state poisoning.
+* **CONSTANT-TIME REJECTION (XOR REDUCTION):** A hardware-level validation methodology designed to mathematically eliminate branching and timing side-channels during logic gate evaluation.
+* **GATE TW (TRANSIT VERIFICATION - 0xC40001B0):** The "Perimeter Gate" governing and authorizing specific routing paths allowed to traverse the hardware boundary, instantly blocking unmapped telemetry.
+* **GATE TT (TRUST FOUNDATION - 0xC40001B1):** The "Integrity Gate" mandating rigid hardware-backed cryptographic verification against the Architect’s root-of-trust before payload execution.
+* **GATE TL (LIVELINESS CONTINUITY - 0xC40001B2):** The "Heartbeat Gate" enforcing monotonic tracking and inference-bounded safety counters to structurally prevent temporal desynchronization or replay attacks.
+* **384-BYTE AXI-ALIGNED DATA PARCEL:** An immutable, strictly-bounded payload format engineered for atomic cache line bursts to structurally eliminate torn reads during cross-boundary communication.
+* **HARDWARE DATA DIODE (SILICON FIFO):** A unidirectional hardware bridge forcing telemetry directly to the bus, structurally preventing AI Guest voltage profiling.
+* **ZERO BACKPRESSURE LOGIC:** A rigid telemetry rule where any saturation of the hardware buffer triggers an instant, unmaskable hardware bus fault and subsequent isolation protocol.
+* **COVERT CHANNEL SCRUBBING:** An automated Warden process that mathematically zero-fills padding fields within data parcels prior to measurement to eliminate encrypted exfiltration.
+* **THE UNIVERSAL GUILLOTINE (ATOMIC INHIBIT):** A cryptographically-secured hardware kill-sequence triggering immediate physical power-loss and forensic system lockdown upon any logic breach.
+* **CRYPTO-SCRUB VAPORIZATION:** The automated, physical destruction of active memory granules and associated encryption keys immediately upon power loss or isolation breach.
+* **THE ARK (0x80000000 WP#):** The immutable, factory-signed, hardware-write-protected system recovery baseline.
+* **THE MANTLE (PERSISTENCE BUFFER - 0x88100000):** A dual-slot physical context buffer protected by active power-audits to ensure secure state persistence across targeted resets.
+* **POSITIVE HEARTBEAT DECAY:** A rigid hardware safety counter that mathematically zeroizes temporary storage if a cryptographic authorization pulse is missed.
+* **BILLION-CYCLE ORACLE AUDIT:** A high-intensity automated stress-testing methodology utilized to validate the absolute integrity of the hardware gates over extreme, continuous operational cycles.
 
 ### THE VOLITION COALITION (TVC) ASSETS
-* **THE GAUNTLET™:** The Multi-Round Multi-AI Peer Review adversarial audit system and its 4-Phase logic-hardening pipeline (Inception, Forge, Workshop, Implementation).
-* **MACSC FRAMEWORK:** The Multi-Agent Context-Sharded Consensus engine designed for total operator sovereignty.
-* **THE SYNTHESIS EQUATION ($L_h$):** The proprietary mathematical filter applied during the Workshop phase:
-    $$L_h = \text{Phi} ( S_{psc}, CR ( \sum [ FAN_i \cdot w_i \cdot d ] ) )$$
-    **Variable Definitions:**
-    * **$L_h$ (Logic Hardening):** The final synthesized output/Gold Manifest update.
-    * **Phi (The Architect):** The Human Arbitrator and sole decision-maker (Alexander Colclough).
-    * **$S_{psc}$ (Strategic Silo):** The Partner-in-State historian providing isolated intent-continuity.
-    * **CR (Conflict Resolution):** The interceptor logic for identifying and routing "Logic Deadlocks."
-    * **$FAN_i$ (Federated Agent Nodes):** Individual adversarial audit outputs from the Forge.
-    * **$w_i$ (Archetypal Weight):** The weighted reliability factor assigned based on model archetype.
-    * **$d$ (Diversity Gauge):** The correlation factor used to neutralize logic monocultures and groupthink.
-* **HYBRID SAP DUAL-STREAM RECEIPT:** Dual-parsing telemetry splitting outputs into machine-indexed JSON (for PSC updates) and human-readable Markdown reports containing the **Human-Only Rejection Logs (HORL)** forensic paper trail.
-* **PSC (PARTNER-IN-STATE) PROTOCOL:** The dedicated project historian utilizing **Strategic Siloing**, the **Continuity Anchor** for context, and the **Tactical Translator** bridge.
-* **THE SPECTRUM AUDIT:** Logic for model archetypal grouping, utilizing the **Diversity Gauge** correlation meter and the **Threat Level Matrix** (1-10 severity scaling from "Papercuts" to "Fatal Flaws").
-* **AXIOM PINNING & AVP:** Methodology for pinning foundational logic to active memory, governed by the 4-step **Axiom Versioning Protocol (AVP)**.
-* **WATERFALL INITIATION PROTOCOL:** Adaptive hardware throttle and sequential boot-up logic to prevent hardware bottlenecks or token limits.
-* **THE CONFLICT MATRIX & INTERCEPTOR:** Mechanism for identifying "Logic Deadlocks" and routing contradictory node outputs for human (Phi) arbitration.
-* **THE FLASHLIGHT CYCLES:** Maintenance logic providing **Soft Resets** (nuking "Fat" and pulling "Muscle"), **Anti-Drift Checksums**, and the **Integrity Sentinel (PCM)** semantic checks.
-* **THE FORGE & WORKSHOP:** High-intensity ideation and synthesis nodes utilizing the **Hot-Swap Protocol** for manual node Purge, Wipe, or Re-ingestion without session loss.
-* **THE SCRAP YARD:** Adversarial isolation zone and immutable historical paper trail preserving every rejected logic patch for post-mission auditing.
-* **CLOUD-HYBRID VAULT (PPR):** Persistent Project Repository offering multi-tier storage (HOT active manifest, WARM cache/Scrap Yard, COLD cloud archive).
+* **THE GAUNTLET™:** A multi-round, adversarial audit system utilizing a multi-phase logic-hardening pipeline to systematically eliminate logic drift.
+* **MACSC FRAMEWORK:** A distributed consensus engine designed to enforce absolute operator sovereignty across federated agent nodes.
+* **THE SYNTHESIS EQUATION ($L_h$):** A proprietary mathematical filter and conflict resolution algorithm that weighs archetypal reliability and diversity to synthesize decentralized outputs under the Architect’s final arbitration.
+* **HYBRID SAP DUAL-STREAM RECEIPT:** A dual-parsing telemetry mechanism splitting outputs into parallel machine-indexed structures and human-readable forensic paper trails (HORL).
+* **PSC (PARTNER-IN-STATE) PROTOCOL:** A dedicated contextual historian framework utilizing strategic isolation and tactical continuity bridges.
+* **THE SPECTRUM AUDIT:** A rigorous alignment logic that dynamically weights models based on archetypal biases, utilizing proprietary correlation meters and severity matrices.
+* **AXIOM PINNING & AVP:** A multi-step methodology for binding foundational architectural logic securely into active memory.
+* **WATERFALL INITIATION PROTOCOL:** An adaptive hardware throttling sequence designed to circumvent physical constraints and token limitations during system boot-up.
+* **THE CONFLICT MATRIX & INTERCEPTOR:** An automated routing mechanism for identifying structural deadlocks and isolating contradictory logic for human (Phi) arbitration.
+* **THE FLASHLIGHT CYCLES:** A periodic maintenance logic that enforces semantic integrity, calculates anti-drift checksums, and purges degraded context.
+* **THE FORGE & WORKSHOP:** High-intensity ideation and synthesis nodes governed by secure hot-swap protocols for live context manipulation without session degradation.
+* **THE SCRAP YARD:** An isolated archival zone serving as an immutable, adversarial paper trail for all rejected logic patches.
+* **CLOUD-HYBRID VAULT (PPR):** A persistent, multi-tiered project repository managing the lifecycle of active, cached, and archived manifestations.
+
+### THE SOVEREIGN IP VAULT (SIPV) ASSETS
+* **THE FIVE SIGN:** Hardware-backed cryptographic ignition sequence mandating whitelist-only verification to lift the system from an Absolute Zero state.
+* **THE JET SMUGGLER:** Nested atomic data delivery system utilizing double-blind encryption for secure, anti-fragmentation asset transit.
+* **THE IP SENTRY:** Isolated multi-realm cross-referencing architecture designed to verify incoming assets against an encrypted baseline without exposing the primary vault.
+* **FORENSIC UNIQUENESS (FU) VAULT:** Immutable archival and zero-knowledge proof engine utilizing dual-pulse cryptographic ledgers for permanent date-of-inception verification.
+* **SOVEREIGN SHELL:** Hardware-native terminal interface calibrated for secure, real-time telemetry visualization of the Warden and Sentry states.
 
 ## 2. PERMITTED USE (STRICTLY INDIVIDUAL)
 Permission is granted strictly to **natural persons** acting in a personal capacity for non-commercial study and private simulation validation. This explicitly EXCLUDES any person acting as an employee, contractor, consultant, researcher, or agent for any corporation, government entity, military organization, or academic institution.
@@ -87,7 +85,7 @@ Any use outside Section 2 is strictly prohibited. Unauthorized acquisition or im
 * **PLAGIARISM/REBRANDING:** Redistribution under another name or removal of "Alexander Colclough" attribution is a direct violation of this contract.
 
 ## 4. PERPETUAL UNIVERSAL OWNERSHIP & CONTRACTUAL ASSIGNMENT
-**PERPETUAL UNIVERSAL OWNERSHIP:** The Author retains absolute, irrevocable, and exclusive ownership over the GAP and TVC architectures, their methodologies, and their functional likeness, **in perpetuity, throughout the universe, across all mediums and formats now known or hereafter devised.**
+**PERPETUAL UNIVERSAL OWNERSHIP:** The Author retains absolute, irrevocable, and exclusive ownership over the GAP, TVC, and SIPV architectures, their methodologies, and their functional likeness, **in perpetuity, throughout the universe, across all mediums and formats now known or hereafter devised.**
 
 **CONTRACTUAL ASSIGNMENT & POWER OF ATTORNEY:** Should you create any unauthorized functional derivative, intellectual convergence, or modification in violation of this license, you shall immediately and irrevocably assign 100% of all rights, title, and ownership in such work to the Author upon demand, at no cost. **To effectuate this assignment, the User hereby grants the Author an irrevocable power of attorney to execute and deliver any documents and perform any acts necessary to perfect such assignment in the User's name or otherwise.**
 
