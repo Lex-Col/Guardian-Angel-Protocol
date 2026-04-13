@@ -1,38 +1,38 @@
-# The Volition Coalition (TVC) // Guardian Angel Protocol
+# Guardian Angel Protocol (GAP) V1.1 [Archangæl Edition]
 
-### [ SYSTEM_STATUS: PROPRIETARY_ENFORCEMENT_ACTIVE ]
+### [ STATUS: PROPRIETARY_ENFORCEMENT_ACTIVE ]
+
+## ⚠️ LEGAL NOTICE: UPAL V1.10 [ARCHANGÆL EDITION]
+Accessing this repository or any associated documentation constitutes a binding legal agreement to the **Universal Proprietary Architecture License (UPAL) v1.10 [Archangæl Edition]**.
+* **Ownership:** Alexander Colclough (Lead Architect).
+* **Authority:** 17 U.S.C. § 501 / Trade Secret Protection.
+* **Prohibitions:** Strictly NO AI training, NO commercial use, and NO unauthorized derivatives. Unauthorized access or redistribution will be met with litigation under Delaware law.
+
+---
 
 ## OVERVIEW
-This repository serves as the public-facing architectural framework for a hardware-enforced AI safety protocol. Unlike software-defined alignment—which is inherently fallible and prone to logic-drift—this project leverages the **ARMv9-A Confidential Compute Architecture (CCA)** to establish physical isolation layers.
+The Guardian Angel Protocol (GAP) is a production-grade architecture for hardware-enforced AI confinement. This project moves AI safety from fallible software-level alignment to bare-metal physical constraints using **ARMv9-A Confidential Compute Architecture (CCA)**.
 
-The core objective is the implementation of a **Realm Management Monitor (RMM)** and **Granule Protection Tables (GPT)** to ensure that AI agent volition remains within strictly defined hardware "shackles."
+## ARCHITECTURAL PILLARS (HIGH-LEVEL)
+* **The Deaf Warden (RMM Oracle):** A hardware-trapped validator residing at R-EL2. It enforces binary whitelisting on capability IDs, ensuring zero-inference permission control.
+* **Triple-Gate Protocol:** A multi-stage verification system for data transit, attestation, and deterministic logic continuity.
+* **Universal Guillotine:** A fail-fast hardware mechanism that triggers atomic memory vaporization (AES-XTS key destruction) upon any policy violation.
 
----
-
-## ARCHITECTURAL PILLARS
-* **Hardware-Enforced Isolation:** Utilizing ARMv9-A RME to create secure "Realms" where execution is cryptographically isolated from the host OS.
-* **Adversarial Consensus:** A multi-agent context-sharded framework (TVC) where peer agents audit logic flows in real-time before state-change commitment.
-* **Zero-Inference Security:** Built for high-security environments utilizing Shizuku-elevated service layers and isolated network routing.
-
-## TECHNICAL STACK (MOBILE-FIRST)
-* **Target Architecture:** ARMv9-A (MediaTek Dimensity 6300 / MT6835T)
-* **Environment:** Shizuku-elevated Android / Termux / Rish
-* **Security Layer:** Granule Protection Management & Realm Isolation
+## TECHNICAL SPECIFICATIONS
+* **Core Architecture:** ARMv9-A 
+* **Logic Data Units:** 384-byte AXI-aligned parcels.
 
 ---
 
-## REPOSITORY CONTENT & ACCESS
-This public repository contains the **Architectural Manifestos** and **System Skeleton** only. 
-
-**The following components are excluded from public distribution:**
-1.  Direct Oracle Logic (Hardware-Audit Scripts)
-2.  Proprietary RME Implementation Blobs
-3.  Sovereign IP Vault logic flows
-
-*If you are looking for the full Guardian Angel Protocol (GAP) V1.1 implementation, you are in the wrong place. This is a reference architecture.*
+## REPOSITORY CONTENT LIMITATIONS
+This public README and skeleton served as the **Architectural Manifesto** only. The following proprietary modules are **EXCLUDED** from this public branch to protect the Architect's intellectual property:
+1.  **[REDACTED]** RMM Oracle Implementation Logic
+2.  **[REDACTED]** Instruction-Zero Reset Micro-Code
+3.  **[REDACTED]** Universal Guillotine Atomic Trigger Scripts
+4.  **[REDACTED]** Sovereign IP Vault logic flows
 
 ## INQUIRIES
-For collaboration or access to the proprietary codebase, contact the Lead Architect. Unauthorized cloning or redistribution of the conceptual framework is strictly prohibited under the project's proprietary licensing terms.
+For collaboration or requests regarding the proprietary GAP V1.1 full implementation, contact the Lead Architect.
 
 ---
 © 2026 Alexander Colclough. All Rights Reserved.
