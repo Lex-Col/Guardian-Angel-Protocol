@@ -2,7 +2,7 @@
 **Architect:** Alexander Colclough (@Lex-Col)
 **Status:** Proprietary Intellectual Property. Not Open Source. Individual Use Only.
 
-> **NOTICE OF BINDING CONTRACT:** BY DOWNLOADING, CLONING, VIEWING, OR OTHERWISE ACCESSING THIS DOCUMENTATION, REPOSITORY, OR ANY KNOWLEDGE SOURCED THEREFROM—REGARDLESS OF DIRECT PHYSICAL OR DIGITAL ACCESS—YOU EXPLICITLY AND IRREVOCABLY AGREE TO THE TERMS OF THE **UNIVERSAL PROPRIETARY ARCHITECTURE LICENSE (UPAL) v1.10 [ARCHANGÆL EDITION]**.
+> **NOTICE OF BINDING CONTRACT:** BY DOWNLOADING, CLONING, VIEWING, OR OTHERWISE ACCESSING THIS DOCUMENTATION, REPOSITORY, OR ANY KNOWLEDGE SOURCED THEREFROM—REGARDLESS OF DIRECT PHYSICAL OR DIGITAL ACCESS—YOU EXPLICITLY AND IRREVOCABLY AGREE TO THE TERMS OF THE **UNIVERSAL PROPRIETARY ARCHITECTURE LICENSE (UPAL) v1.10 
 
 ---
 
@@ -20,7 +20,7 @@
 
 ---
 
-# UNIVERSAL PROPRIETARY ARCHITECTURE LICENSE (UPAL) v1.10 [ARCHANGÆL EDITION]
+# UNIVERSAL PROPRIETARY ARCHITECTURE LICENSE (UPAL) v1.10
 
 **BY ACCESSING THIS DOCUMENTATION, REPOSITORY, OR SOURCE CODE, YOU IRREVOCABLY AGREE TO ALL TERMS OUTLINED IN THIS BINDING CONTRACT.**
 
@@ -72,7 +72,7 @@ Any unauthorized acquisition, disclosure, or implementation of the functional me
 * **THE JET SMUGGLER:** Nested atomic data delivery system utilizing double-blind encryption for secure, anti-fragmentation asset transit.
 * **THE IP SENTRY:** Isolated multi-realm cross-referencing architecture designed to verify incoming assets against an encrypted baseline without exposing the primary vault.
 * **FORENSIC UNIQUENESS (FU) VAULT:** Immutable archival and zero-knowledge proof engine utilizing dual-pulse cryptographic ledgers for permanent date-of-inception verification.
-* **SOVEREIGN SHELL:** Hardware-native terminal interface calibrated for secure, real-time telemetry visualization of the Warden and Sentry states.
+
 
 ## 2. PERMITTED USE (STRICTLY INDIVIDUAL)
 Permission is granted strictly to **natural persons** acting in a personal capacity for non-commercial study and private simulation validation. This explicitly EXCLUDES any person acting as an employee, contractor, consultant, researcher, or agent for any corporation, government entity, military organization, or academic institution.
