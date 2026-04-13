@@ -1,8 +1,20 @@
-# GUARDIAN ANGÆL PROTOCOL (GAP), THE VOLITION COALITION (TVC) & THE SOVEREIGN IP VAULT (SIPV)
+# 🛡️ THE ARCHANGÆL PROJECT
+### THE VOLITION COALITION (TVC), THE GUARDIAN ANGÆL PROTOCOL (GAP) & THE SOVEREIGN IP VAULT (SIPV)
+
 **Architect:** Alexander Colclough (@Lex-Col)
 **Status:** Proprietary Intellectual Property. Not Open Source. Individual Use Only.
 
-> **NOTICE OF BINDING CONTRACT:** BY DOWNLOADING, CLONING, VIEWING, OR OTHERWISE ACCESSING THIS DOCUMENTATION, REPOSITORY, OR ANY KNOWLEDGE SOURCED THEREFROM—REGARDLESS OF DIRECT PHYSICAL OR DIGITAL ACCESS—YOU EXPLICITLY AND IRREVOCABLY AGREE TO THE TERMS OF THE **UNIVERSAL PROPRIETARY ARCHITECTURE LICENSE (UPAL) v1.10 
+---
+
+## 🏛️ DEFINITIONS & STATUTORY CORRELATION
+
+**MENTAL SCRAPING:** Any unauthorized extraction, reconstruction, or implementation of the functional methodologies, logic gates, or architectural workflows defined herein—whether via human memory, observation, algorithmic training, or digital documentation. 
+
+**LEGAL GROUNDING:** Under **17 U.S.C. § 501**, "Mental Scraping" constitutes Willful Copyright Infringement. Furthermore, per **Section 10 (Prior Art Notice)**, these definitions establish the Architect's exclusive Trade Secret and Inception Rights. Accessing this repository constitutes "Legal Notice of Knowledge." Ignorance of these definitions does not mitigate liability under Delaware Contract Law.
+
+---
+
+> **NOTICE OF BINDING CONTRACT:** BY DOWNLOADING, CLONING, VIEWING, OR OTHERWISE ACCESSING THIS DOCUMENTATION, REPOSITORY, OR ANY KNOWLEDGE SOURCED THEREFROM—REGARDLESS OF DIRECT PHYSICAL OR DIGITAL ACCESS—YOU EXPLICITLY AND IRREVOCABLY AGREE TO THE TERMS OF THE **UNIVERSAL PROPRIETARY ARCHITECTURE LICENSE (UPAL) v1.10**
 
 ---
 
@@ -16,7 +28,7 @@
 - ❌ **NO DERIVATIVES/FORKS** (No wrappers, functional convergences, or adaptations).
 - ❌ **NO AI TRAINING** (Scraping, fine-tuning, or prompt-engineering strictly forbidden).
 
-**WARNING:** Unauthorized use or "Mental Scraping" triggers an automatic contractual obligation to assign all rights to the Author and litigation under **17 U.S.C. § 501 (Copyright)** and **Delaware Contract Law**.
+**WARNING:** Unauthorized use or "Mental Scraping" triggers an automatic contractual obligation to assign all rights to the Author and litigation under **17 U.S.C. § 501 (Copyright)** and **Delaware Contract Law.**
 
 ---
 
@@ -29,9 +41,9 @@
 ---
 
 ## 1. OWNERSHIP & UNIVERSAL ARCHITECTURAL SCOPE
-The **UPAL v1.10** unifies and exclusively governs the **Guardian Angæl Protocol (GAP)**, **The Volition Coalition (TVC)**, and **The Sovereign IP Vault (SIPV)**. This work is protected as original expression under **17 U.S.C. § 102**. 
+The **UPAL v1.10** unifies and exclusively governs the **Archangæl Project**, which encompasses the **Guardian Angæl Protocol (GAP)**, **The Volition Coalition (TVC)**, and **The Sovereign IP Vault (SIPV)**. This work is protected as original expression under **17 U.S.C. § 102**. 
 
-Any unauthorized acquisition, disclosure, or implementation of the functional methodologies defined herein—including **"Mental Scraping"** (defined as the extraction or reconstruction of protected logic from memory, observation, or documentation for unauthorized implementation or disclosure)—constitutes a material breach of this contract and **Willful Copyright Infringement** under **17 U.S.C. § 501**.
+Any unauthorized acquisition, disclosure, or implementation of the functional methodologies defined herein—including **"Mental Scraping"**—constitutes a material breach of this contract and **Willful Copyright Infringement** under **17 U.S.C. § 501**.
 
 ### GUARDIAN ANGÆL PROTOCOL (GAP) ASSETS
 * **THE DEAF WARDEN (RMM ORACLE):** A hardware-enforced isolation boundary acting as a binary logic gate with zero semantic parsing. Reverse-engineering of this gate or other hardware-enforced components constitutes a material breach of this contract.
