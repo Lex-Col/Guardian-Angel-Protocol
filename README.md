@@ -29,7 +29,6 @@ This public README and skeleton served as the **Architectural Manifesto** only. 
 1.  **[REDACTED]** RMM Oracle Implementation Logic
 2.  **[REDACTED]** Instruction-Zero Reset Micro-Code
 3.  **[REDACTED]** Universal Guillotine Atomic Trigger Scripts
-4.  **[REDACTED]** Sovereign IP Vault logic flows
 
 ## INQUIRIES
 For collaboration or requests regarding the proprietary GAP V1.1 full implementation, contact the Lead Architect.
