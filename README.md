@@ -15,21 +15,21 @@
 ---
 
 ## ⚖️ The Philosophy: Physics as the Law
-The **Guardian Angæl Protocol (GAP)** rejects the pursuit of "algorithmic alignment." We shackle the model's output at the absolute hardware level, rendering internal drift irrelevant to system safety. AI is a tool; GAP ensures it remains one through objective, physical isolation.
+The **Guardian Angæl Protocol (GAP)** rejects the pursuit of "algorithmic alignment". We shackle the model's output at the absolute hardware level, rendering internal drift irrelevant to system safety. AI is a tool; GAP ensures it remains one through objective, physical isolation.
 
 ## 🏗️ Core Architecture: The "Deaf Warden"
 GAP leverages **ARMv9-A Realm Management Extension (RME)** to create a cryptographically isolated environment.
 
 * **The Realm Guest:** The AI executes as an untrusted Realm Guest with isolation enforced via Granule Protection Tables (GPT).
 * **The Deaf Warden (RMM Oracle):** Residing at R-EL2, the Oracle enforces binary whitelist checks on fixed-length capability IDs. It performs zero semantic intent analysis.
-* **Instruction-Zero Reset:** Mandates a physical flush of the Branch History Buffer (s3_6_c15_c1_5) before any memory access to neutralize speculative execution attacks.
+* **Instruction-Zero Reset:** Mandates a physical flush of the Branch History Buffer before any memory access to neutralize speculative execution attacks.
 
 ## 🔓 The Triple-Gate Protocol (Deterministic Enforcement)
 The Warden verifies compliance through three rigid hardware gates.
 
 1. **GATE TW (Transit Verification):** Governs the authorized routing path for RSI Transit IDs.
 2. **GATE TT (Trust Foundation):** Mandates hardware-backed cryptographic signatures against the Architect’s Root-of-Trust.
-3. **GATE TL (Liveliness Continuity):** Enforces monotonic nonce tracking and inference-bounded safety counters (<100ms).
+3. **GATE TL (Liveliness Continuity):** Enforces monotonic nonce tracking and inference-bounded safety counters.
 
 ## ⚡ The Universal Guillotine (Atomic Inhibit)
 Any logic anomaly triggers an immediate **Kill-then-Log** sequence:
