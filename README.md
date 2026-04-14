@@ -1,36 +1,33 @@
-# Guardian Angel Protocol (GAP) V1.1 [Archangæl Edition]
-
+# 🕊️ Guardian Angæl Protocol (GAP)
 ### [ STATUS: PROPRIETARY_ENFORCEMENT_ACTIVE ]
 
-## ⚠️ LEGAL NOTICE: UPAL V1.10 [ARCHANGÆL EDITION]
-Accessing this repository constitutes a binding legal agreement to the **Universal Proprietary Architecture License (UPAL) v1.10**.
-* **Ownership:** Alexander Colclough (Lead Architect).
-* **Prohibitions:** Strictly NO AI training, NO commercial use, and NO unauthorized derivatives. 
+## ⚠️ LEGAL NOTICE: UPAL v3.0 [SOVEREIGN SHIELD]
+Accessing this repository constitutes a binding legal contract under the **Universal Proprietary Architecture License (UPAL) v3.0**. 
+* **Architect:** Alexander Colclough (@Lex-Col)
+* **Jurisdiction:** State of Delaware, USA
+* **Prohibitions:** Strictly NO AI training, NO corporate ingestion, NO unauthorized derivatives.
 
 ---
 
-## OVERVIEW
-The Guardian Angel Protocol (GAP) is a production-grade architecture for hardware-enforced AI confinement. This project moves system safety from software-level alignment to bare-metal physical constraints using **ARMv9-A Confidential Compute Architecture (CCA)**.
+## 🏛️ ARCHITECTURAL MANIFESTO
+The Guardian Angæl Protocol (GAP) is a proprietary microarchitectural framework designed for hardware-enforced AI confinement. GAP moves system integrity from fallible software-level alignment to **deterministic physical constraints** utilizing the ARMv9-A Confidential Compute Architecture (CCA).
 
-## ARCHITECTURAL PILLARS (HIGH-LEVEL)
-* **The Deaf Warden:** A hardware-isolated validator enforcing binary whitelisting on capability IDs, ensuring zero-inference permission control at the firmware level.
-* **Triple-Gate Protocol:** A multi-stage verification system for data transit, attestation, and deterministic logic continuity.
-* **Universal Guillotine:** A fail-fast hardware mechanism that triggers atomic memory vaporization (cryptographic key destruction) upon any policy violation.
+## 🛡️ CORE PILLARS
+* **The Deaf Warden:** A hardware-isolated logic gate acting as the absolute authority on system capabilities. It operates with zero semantic parsing to ensure an unhackable boundary between the Host and the Guest.
+* **The Triple-Gate Protocol:** A proprietary multi-stage verification sequence governing data transit and cross-realm attestation.
+* **The Universal Guillotine:** An authenticated hardware kill-sequence. Upon policy violation, the system executes an atomic inhibit, vaporizing session keys and initiating a forensic lockdown.
 
-## TECHNICAL SPECIFICATIONS
-* **Core Architecture:** ARMv9-A 
-* **Logic Data Units:** Optimized AXI-aligned parcel transit.
-
----
-
-## REPOSITORY CONTENT LIMITATIONS
-This public README serves as the **Architectural Manifesto**. The following proprietary modules are **EXCLUDED** from this public branch:
-1.  **[REDACTED]** Oracle Implementation Logic
-2.  **[REDACTED]** Instruction-Zero Reset Micro-Code
-3.  **[REDACTED]** Universal Guillotine Atomic Trigger Logic
-
-## INQUIRIES
-For collaboration or licensing regarding the full implementation, contact the Lead Architect.
+## 🛠️ SPECIFICATIONS
+* **Core Platform:** ARMv9-A CCA Implementation.
+* **Logic Data Units:** Proprietary AXI-aligned parcel structures.
 
 ---
+
+## 🔒 RESTRICTED DISCLOSURE NOTICE
+This public documentation is a **Limited Disclosure** for conceptual evaluation. To protect the Architect's Trade Secrets, the following modules are **STRICTLY EXCLUDED** from this branch:
+1. **[REDACTED]** RMM Oracle Implementation & Register Mappings.
+2. **[REDACTED]** Instruction-Zero Microarchitectural Reset Logic.
+3. **[REDACTED]** Atomic Inhibit Trigger & Vaporization Sequence.
+
+**"Sovereignty through architecture."**
 © 2026 Alexander Colclough. All Rights Reserved.
